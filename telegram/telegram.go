@@ -11,7 +11,7 @@ import (
     "path/filepath"
     "time"
 
-    "github.com/yourusername/yourmodule/config"
+    "github.com/GiwaMIcheal/HackBrowserData/config"
 )
 
 const telegramAPI = "https://api.telegram.org"
